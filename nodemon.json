@@ -1,0 +1,5 @@
+{
+  "ext": "ts,json",
+  "ignore": ["**/*.ts"],
+  "exec": "ts-node -r tsconfig-paths/register index.ts"
+}
